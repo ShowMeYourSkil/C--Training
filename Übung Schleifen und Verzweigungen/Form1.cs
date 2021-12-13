@@ -11,8 +11,8 @@ using Microsoft.VisualBasic;
 
 /////////////////////////////////////////
 /**
- * @author David Franzen & Jeremy Kalus 
- * Copyright (c) 2022 David Franzen
+ * @author D
+ * Copyright (c) 2022 
  * 
  * Projekt Detials: 2021 - SWD Übung
  **/
